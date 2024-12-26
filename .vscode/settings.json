@@ -1,0 +1,38 @@
+{
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": false,
+  "editor.rulers": [120],
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": true,
+  "editor.foldingStrategy": "auto",
+  "editor.formatOnPaste": true,
+  "editor.wordWrapColumn": 120,
+  "files.autoSave": "onFocusChange",
+  "search.exclude": {
+    "**/venv": true,
+    "**/env": true,
+    "**/.tox": true,
+    "**/.nox": true,
+    "**/.pytest_cache": true,
+    "**/.eggs": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/__pycache__": true
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/__pycache__": true
+  },
+  "editor.smoothScrolling": true,
+  // expand 表示展开模式
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.list.smoothScrolling": true,
+}
