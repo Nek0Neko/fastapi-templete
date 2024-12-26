@@ -1,3 +1,4 @@
+```
 my_fastapi_project/
 ├── app/
 │   ├── __init__.py
@@ -56,3 +57,4 @@ my_fastapi_project/
 ├── requirements.txt        # 项目依赖
 ├── Dockerfile              # Docker 配置文件
 └── README.md               # 项目说明文件
+```
